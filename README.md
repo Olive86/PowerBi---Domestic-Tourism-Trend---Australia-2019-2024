@@ -53,7 +53,9 @@ Tools Used:  Power BI
 
 ✔️ Industry Stakeholders (e.g., hotels, airlines, tour operators): to align business strategies with demand shifts in Trips, Nights, and Spend. 
 
+
 ✔️ Researchers and Analysts: to study domestic tourism patterns and evaluate long-term impacts of external shocks (e.g., COVID-19).
+
 ---
 
 ## 📂 Dataset Description & Data Structure  
