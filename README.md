@@ -29,10 +29,9 @@ Tools Used:  Power BI
 ### Objective:
 ### 📖 What is this project about? 
  
-- Provide a brief introduction to the project. Define the problem statement/ business question that this project will show and why it is important.
-- Write in bullet point format
+- This dashboard tracks Australia’s domestic overnight tourism performance (2019–2025), comparing national and state-level trends in Trips, Nights, and Spend to highlight year-on-year changes, state contributions, and Queensland’s performance within the national context.
 
- _Example:_
+ _Specifiic objectives:
 
  This project analyzes sales trends and inventory control using SQL and Power BI. The objective is
  
