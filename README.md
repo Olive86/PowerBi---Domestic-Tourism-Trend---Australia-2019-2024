@@ -29,7 +29,7 @@ Tools Used:  Power BI
 ### Objective:
 ### 📖 What is this project about? 
  
-- This dashboard tracks Australia’s domestic overnight tourism performance (2019–2025), comparing national and state-level trends in Trips, Nights, and Spend to highlight year-on-year changes, state contributions, and Queensland’s performance within the national context.
+ This dashboard tracks Australia’s domestic overnight tourism performance (2019–2025), comparing national and state-level trends in Trips, Nights, and Spend to highlight year-on-year changes, state contributions, and Queensland’s performance within the national context.
 
  _Specifiic objectives:
 
