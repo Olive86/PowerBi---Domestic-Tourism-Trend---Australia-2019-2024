@@ -1,8 +1,6 @@
 # [README.md](https://github.com/user-attachments/files/22091146/README.md)
 # DOMESTIC TOURISM ANALYSIS 2019 TO 2024 IN AUSTRALIA
 
-🔥![Domestic Tourisim_Analysis]
-
 ---
 ![April-web-banner](https://github.com/user-attachments/assets/ab7a6346-e332-4162-9ea5-982f3aa95aad)  
 
