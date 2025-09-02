@@ -31,7 +31,7 @@ Tools Used:  Power BI
  
  This dashboard tracks Australia’s domestic overnight tourism performance (2019–2025), comparing national and state-level trends in Trips, Nights, and Spend to highlight year-on-year changes, state contributions, and Queensland’s performance within the national context.
 
- _Specifiic objectives:
+ Specifiic objectives:
 
  This project analyzes sales trends and inventory control using SQL and Power BI. The objective is
  
