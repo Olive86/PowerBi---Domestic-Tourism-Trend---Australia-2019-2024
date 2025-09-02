@@ -4,7 +4,9 @@
 🔥Use this template as an outline for your Github projects. Make a copy of this readme file and tailor it your own. Happy portfolio-ing and start applying aggressively :"))
 
 ---
-![Domestic Tourisim_Analysis]![April-web-banner](https://github.com/user-attachments/assets/ab7a6346-e332-4162-9ea5-982f3aa95aad)
+![April-web-banner](https://github.com/user-attachments/assets/ab7a6346-e332-4162-9ea5-982f3aa95aad)  
+
+![Domestic Tourisim_Analysis]
 
 Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
 
