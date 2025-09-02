@@ -8,10 +8,10 @@
 
 Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
 
-# 📊 Project Title: [Your Project Name]  
-Author: [Your Name]  
-Date: YYYY-MM-DD  
-Tools Used: SQL/ Power BI/ Python  
+# 📊 Project Title: Using PowwerBi to analyse Domestic Overnight Tourism Performance Dashboard: National and State Insights (2019–2025)
+Author: Olive (Thi Hai) Dang
+Date: 05/07/2025 
+Tools Used:  Power BI 
 
 ---
 
@@ -35,20 +35,26 @@ Tools Used: SQL/ Power BI/ Python
  _Example:_
 
  This project analyzes sales trends and inventory control using SQL and Power BI. The objective is
-✔️ Identify high-demand products and sales trends.  
-✔️ Optimize inventory levels to prevent overstocking or stockouts.  
-✔️ Provide actionable insights through Power BI dashboards.  
+ 
+✔️ Analyze domestic overnight tourism performance in Australia between 2019–2025, covering Trips, Nights, and Spend.
+
+✔️ Compare state-level performance vs national trends to identify which regions are growing or declining. 
+
+✔️ Provide visual insights (KPI cards, line trends, maps, bar charts) to make patterns easy to interpret for decision-makers.
+
+✔️ Support Tourism Department in identifying priority states, monitoring performance, and guiding strategic initiatives.
 
 ### 👤 Who is this project for?  
 
-Mention who might benefit from this project 
-
- _Example:_
-
 ✔️ Data analysts & business analysts  
-✔️ Supply chain managers & inventory controllers  
-✔️ Decision-makers & stakeholders  
 
+✔️ State and Federal Tourism Agencies: to track recovery trends, growth opportunities, and competitive positioning across Australia.
+
+✔️ Policy Makers and Planners: to identify which regions need support or investment in tourism infrastructure and marketing.
+
+✔️ Industry Stakeholders (e.g., hotels, airlines, tour operators): to align business strategies with demand shifts in Trips, Nights, and Spend. 
+
+✔️ Researchers and Analysts: to study domestic tourism patterns and evaluate long-term impacts of external shocks (e.g., COVID-19).
 ---
 
 ## 📂 Dataset Description & Data Structure  
