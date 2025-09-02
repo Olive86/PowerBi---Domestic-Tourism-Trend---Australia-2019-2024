@@ -173,6 +173,10 @@ Explain the step-by-step approach taken to solve the problem.
 👉🏻 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:  
 
 📌 Key Takeaways:  
-✔️ Recommendation 1  
-✔️ Recommendation 2  
-✔️ Recommendation 3
+✔️ Tourism softened in Q1 2025 — Trips (–3%) and Nights (–2%) declined, though Spend (+1%) grew, lifting Spend per Night (+3%).
+
+
+✔️ Queensland lagged the national average, while some states (e.g., WA, SA) showed resilience and modest growth.
+
+
+✔️ Strategic focus should be on stimulating trip volumes, leveraging premium/high-yield markets, and monitoring competitive state performance.
